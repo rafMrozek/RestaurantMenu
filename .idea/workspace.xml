@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b99961-9380-4a8f-b79b-b872141fe0a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Restaurant.java" afterDir="false" />
+    <list default="true" id="85b99961-9380-4a8f-b79b-b872141fe0a7" name="Changes" comment="Added Restaurant, Tablet, Order, Dish class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -51,6 +51,27 @@
       <option name="presentableId" value="Default" />
       <updated>1714242596063</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Restaurant, Tablet, Order, Dish class">
+      <option name="closed" value="true" />
+      <created>1714244103571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714244103571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Restaurant, Tablet, Order, Dish class">
+      <option name="closed" value="true" />
+      <created>1714244121251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714244121251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Restaurant, Tablet, Order, Dish class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Restaurant, Tablet, Order, Dish class" />
   </component>
 </project>

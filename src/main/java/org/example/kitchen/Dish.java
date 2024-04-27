@@ -1,11 +1,11 @@
 package org.example.kitchen;
 
 public enum Dish {
-    Fish,
-    Steak,
-    Soup,
-    Juice,
-    Water;
+    Ryba,
+    Stek,
+    Zupa,
+    Sok,
+    Woda;
 
     public static String allDishesToString() {
         String result = "";
