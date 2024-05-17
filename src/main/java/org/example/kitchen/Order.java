@@ -11,7 +11,8 @@ public class Order {
 
     public Order (Tablet tablet) throws IOException {
         this.tablet = tablet;
-        this.dishes = ConsoleHelper.getAllDishesForOder();
+        this.dishes = ConsoleHelper.getAllDishesForOrder();
+        ConsoleHelper.writeMessage(toString());
     }
     @Override
     public String toString() {
@@ -21,7 +22,7 @@ public class Order {
         for (int i = 1; i < dishes.size(); i++) {
             result += ", " + dishes.get(i).name();
         }
-        result+="] from " + tablet;
+        result+="] od " + tablet;
         return result;
     }
 }

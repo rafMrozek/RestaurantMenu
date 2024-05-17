@@ -16,7 +16,7 @@ public class ConsoleHelper {
     public static String readString() throws IOException {
         return bis.readLine();
     }
-    public static List<Dish> getAllDishesForOder() throws IOException {
+    public static List<Dish> getAllDishesForOrder() throws IOException {
         List<Dish> dishes = new ArrayList<>();
         ConsoleHelper.writeMessage("Wybierz posiłek z listy:" + Dish.allDishesToString() + "\n lub wybierz 'exit' aby zakończyć zamówienie");
         while(true) {
