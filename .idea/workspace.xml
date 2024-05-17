@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b99961-9380-4a8f-b79b-b872141fe0a7" name="Changes" comment="Added ConsoleHelper">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Waiter.java" afterDir="false" />
+    <list default="true" id="85b99961-9380-4a8f-b79b-b872141fe0a7" name="Changes" comment="Added Cook and Waiter class. Modified ConsoleHelper,Order,Restaurant and Tablet class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Dish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/kitchen/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,12 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714246619173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Cook and Waiter class. Modified ConsoleHelper,Order,Restaurant and Tablet class">
+      <option name="closed" value="true" />
+      <created>1715974045827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715974045827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Restaurant, Tablet, Order, Dish class" />
     <MESSAGE value="Added ConsoleHelper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ConsoleHelper" />
+    <MESSAGE value="Added Cook and Waiter class. Modified ConsoleHelper,Order,Restaurant and Tablet class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Cook and Waiter class. Modified ConsoleHelper,Order,Restaurant and Tablet class" />
   </component>
 </project>
