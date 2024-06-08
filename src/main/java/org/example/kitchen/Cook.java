@@ -18,6 +18,7 @@ public class Cook extends Observable implements Observer {
     }
     @Override
     public String toString() {
+
         return name;
     }
 }
